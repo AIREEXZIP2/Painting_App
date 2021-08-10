@@ -9,7 +9,7 @@ You just can draw the stuff and also save this locally in the system. This is a 
 ## About The Project
 
 ** The Painting tool project is simply in HTML, CSS, and JavaScript. Taking about the features of this system, this project does not consist of many features. 
-You can do things like drawing and writing texts. You cannot save your sketches. But you can click on new to start from the beginning. This project includes a lot of javascript for making the functioning of the project.
+You can do things like drawing and writing texts. You cannot save your sketches. But you can click on new to start from the beginning. 
 
 ## Link to open the painting website-
 https://aireexzip2.github.io/Painting_App/
