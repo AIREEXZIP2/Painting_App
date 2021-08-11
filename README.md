@@ -15,4 +15,4 @@ You can do things like drawing and writing texts. You cannot save your sketches.
 https://aireexzip2.github.io/Painting_App/
 
 
-# Author Name- Pooja Airee
+Author Name- Pooja Airee
